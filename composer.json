@@ -1,0 +1,14 @@
+{
+    "name": "if65/consolidati",
+    "authors": [
+        {
+            "name": "Marco Gnecchi",
+            "email": "marco.gnecchi@icloud.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "phpoffice/phpspreadsheet": "^1.14",
+        "ext-json": "*"
+    }
+}
